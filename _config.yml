@@ -1,6 +1,6 @@
-title: "Daouda Ba"
+title: "Daouda Ba | Portfolio IA & MLOps"
 logo: img/photo.jpg
-description: "Data Scientist Portfolio"
+description: "Portfolio de projets Data Science, IA, MLOps, Computer Vision, RAG et IoT"
 show_downloads: true
 theme: jekyll-theme-minimal
-langue: en
+lang: fr
