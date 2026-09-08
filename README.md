@@ -226,14 +226,6 @@ Système IoT complet pour mesurer, transmettre et visualiser la température et 
 **Objectif**
 Superviser des données environnementales en temps réel avec alertes email, indicateurs visuels et historique des mesures.
 
-**Architecture**
-
-```text
-[DHT11] -> [ESP8266] -> [Wi-Fi] -> [Django API] -> [SQLite DB] -> [Dashboard Web]
-                                           |
-                                      [Email Alerts]
-```
-
 **Couches du système**
 
 1. Capteurs : DHT11 pour température et humidité.
