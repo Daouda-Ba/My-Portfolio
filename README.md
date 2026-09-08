@@ -1,4 +1,4 @@
-# Daouda Ba | Data Scientist & ML Engineer
+# Daouda Ba | Portfolio Data Science, IA & MLOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daouda-ba-b9b21b2b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daouda-Ba)
@@ -6,460 +6,370 @@
 
 ---
 
-##  Profil Professionnel
+## Profil
 
-**Master's Student in Machine Learning & Data Science** | AI Enthusiast | Builder of Intelligent Systems
+Je développe des projets appliqués en **machine learning**, **computer vision**, **NLP/RAG**, **MLOps**, **API data** et **applications web data-driven**.
+Ce portfolio présente des réalisations concrètes autour de la détection d'objets, de l'OCR, de la fraude bancaire, de l'analyse audio médicale, du monitoring de modèles IA, de l'IoT et de l'exploration de données littéraires.
 
-Professionnel passionné par l'IA et le Machine Learning avec expertise en **développement d'applications intelligentes**, **data engineering** et **computer vision**. Formations académiques (Master en ML/DS + Licence MIAGE mention bien), je conçois des solutions data-driven pour résoudre des problèmes complexes du monde réel.
-
-###  Domaines de Spécialisation
-
-- **Machine Learning & Deep Learning** - Modèles prédictifs, classification, détection
-- **Computer Vision** - Détection d'objets (YOLO), reconnaissance d'images, OCR
-- **Data Engineering** - Big Data, pipelines ETL, streaming
-- **Production & Déploiement** - Docker, API REST, monitoring (Prometheus/Grafana)
-- **NLP & Audio** - Speech recognition, traitement de texte, analyse audio
+L'objectif de ce README est de documenter les projets de manière claire, professionnelle et authentique, sans ajouter de résultats ou de métriques non vérifiés.
 
 ---
 
-## Tech Stack
+## Domaines De Compétence
 
-### **Langages de Programmation**
+- **Machine Learning** : classification, régression, comparaison de modèles, validation croisée, optimisation d'hyperparamètres.
+- **Deep Learning** : architectures CNN-LSTM, analyse audio, classification multi-classes.
+- **Computer Vision** : YOLOv8, détection d'objets, suivi vidéo, OCR.
+- **MLOps** : MLflow, FastAPI, Docker, monitoring, retraining, tests unitaires.
+- **Data Apps** : Streamlit, Gradio, dashboards interactifs, visualisation Plotly.
+- **APIs & Backend** : FastAPI, Django, SQLite/PostgreSQL, endpoints REST.
+- **Data Engineering** : preprocessing, pipelines CSV/Parquet, indexation vectorielle, export de résultats.
+
+---
+
+## Stack Technique
+
+### Langages & Données
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### **AI / Machine Learning**
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square)
+### Machine Learning & Deep Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-003366?style=flat-square)
 
-### **Big Data & Frameworks**
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+### Vision, Audio & NLP
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B1?style=flat-square)
+![Librosa](https://img.shields.io/badge/Librosa-1f77b4?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+### Web, API & Déploiement
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
-
-### **Outils & DevOps**
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
 
 ---
 
-## Projets Phares
+## Projets
 
-### 1️⃣ **Mauritanian Licence Plate Detection & Recognition**
+### 1. Mauritanian Licence Plate Detection
 
-Système intelligent de reconnaissance automatique des plaques d'immatriculation mauritaniennes conçu pour soutenir la digitalisation du management des contraventions routières. Le système combine la détection d'objets YOLOv8 avec l'OCR avancée pour extraire et valider les numéros de plaque en temps réel.
+Pipeline Streamlit pour la **détection de plaques d'immatriculation mauritaniennes** avec YOLOv8 et l'extraction de texte par PaddleOCR.
 
-**Objectifs du Projet:**
-- Automatiser la reconnaissance des plaques d'immatriculation mauritaniennes
-- Supporter la digitalisation du management du trafic routier
-- Fournir une solution temps réel avec haute précision
+**Objectif**
+Combiner la détection d'objets et l'OCR afin d'identifier automatiquement les plaques mauritaniennes sur des images, vidéos ou flux caméra.
 
-**Résultats & Performances:**
-- Précision de détection: **95%+**
-- Traitement temps réel: <200ms par image
-- Support multi-format et angles variables
-- Interface utilisateur intuitive via Streamlit
+**Fonctionnalités principales**
 
-**Stack Technique:** Python | YOLOv8 | OpenCV | PaddleOCR | Streamlit | TensorFlow  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Mauritanian-licence-plate-detection)
+- Interface Streamlit multi-pages : accueil, visualisation, détection image, détection vidéo/webcam.
+- Détection de plaques avec **YOLOv8**.
+- Extraction du texte des plaques avec **PaddleOCR**.
+- Tracking des plaques sur vidéo avec rafraîchissement OCR.
+- Prétraitement et normalisation du texte détecté.
+- Validation par expressions régulières des séries et régions mauritaniennes.
+- Export des résultats en CSV pour images et vidéos.
+- Mode rapide et mode complet pour adapter les performances au traitement vidéo.
 
----
-
-### 2️⃣ **Advanced Fraud Detection System**
-
-Système de détection de fraude bancaire utilisant des algorithmes ML avancés et techniques d'interprétabilité (SHAP). Le projet combine plusieurs modèles (XGBoost, Random Forest, Gradient Boosting) avec ensemble methods pour identifier les transactions frauduleuses avec une précision exceptionnelle.
-
-**Objectifs du Projet:**
-- Détecter les transactions financières frauduleuses en temps réel
-- Minimiser les faux positifs pour améliorer l'expérience client
-- Fournir une explainabilité des prédictions pour la conformité réglementaire
-
-**Résultats & Performances:**
-- F1-Score: **0.92** (excellent équilibre précision/rappel)
-- ROC-AUC: **0.98**
-- Réduction de la fraude: **87%**
-- Traitement batch: +1M transactions/jour
-- Explainabilité: SHAP values pour chaque prédiction
-
-**Techniques Avancées:**
-- Feature Engineering avancée (engineered features, interaction features)
-- Hyperparameter Optimization (GridSearch, RandomSearch)
-- Model Stacking & Ensemble Methods
-- SHAP pour l'interpretabilité
-
-**Stack Technique:** Python | Scikit-learn | XGBoost | Pandas | NumPy | SHAP | Matplotlib  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Fraude-detection-using-ML-algorithms)
+**Stack** : Python, YOLOv8, PaddleOCR, Streamlit, OpenCV.
 
 ---
 
-### 3️⃣ **Intelligent House Price Prediction Application**
+### 2. Application De Détection De Fraude Par Carte De Crédit
 
-Application web interactive dédiée à la prédiction des prix immobiliers, utilisant un modèle XGBoost optimisé et une interface utilisateur intuitive développée avec Streamlit. L'application permet aux utilisateurs d'estimer les prix en fonction de caractéristiques immobilières.
+Application interactive Streamlit pour détecter les transactions frauduleuses à partir de techniques de machine learning.
 
-**Objectifs du Projet:**
-- Fournir une estimation précise et rapide des prix immobiliers
-- Rendre accessible la prediction de prix à des utilisateurs non-techniques
-- Intégrer la visualisation des facteurs d'influence sur les prix
+**Objectif**
+Identifier et analyser les transactions frauduleuses dans des données de cartes de crédit avec plusieurs modèles supervisés et une interface configurable.
 
-**Résultats & Performances:**
-- RMSE optimisé: <5% d'erreur moyenne
-- R² Score: 0.92
-- Prédictions instantanées (<100ms)
-- 50+ features d'entrée traitées
-- Interface responsive et user-friendly
+**Fonctionnalités principales**
 
-**Fonctionnalités:**
-- Prédiction interactive en temps réel
-- Visualisation des corrélations entre features
-- Feature importance analysis
-- Historique des prédictions
-- Export des résultats (CSV, PDF)
+- Page d'accueil avec vue d'ensemble et métriques clés.
+- Exploration du dataset et statistiques descriptives.
+- Comparaison entre transactions authentiques et frauduleuses.
+- Analyse de corrélation interactive.
+- Trois modèles disponibles : **Random Forest**, **Régression Logistique**, **SVM**.
+- Prétraitement avec **StandardScaler**.
+- Gestion du déséquilibre des classes avec **SMOTE**.
+- Optimisation des hyperparamètres avec **GridSearchCV**.
+- Évaluation avec précision, rappel, F1-score, matrice de confusion et courbe ROC.
+- Paramètres interactifs configurables depuis l'interface.
 
-**Stack Technique:** Python | XGBoost | Streamlit | Pandas | Joblib | Scikit-learn  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Application-pour-la-Prediction-du-prix-des-maisons)
+**Stack** : Streamlit, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Imbalanced-learn.
 
 ---
 
-### 4️⃣ **Respiratory Disease Detection using Deep Learning**
+### 3. Projet MLOps End-To-End Avec Données Réelles
 
-Système de Deep Learning révolutionnaire pour la détection des maladies respiratoires (asthme, bronchite, toux chronique) basé sur l'analyse de sons respiratoires. Le projet utilise les réseaux de neurones LSTM pour capturer les patterns temporels dans les spectrogrammes MFCC extraits des enregistrements audio.
+Pipeline MLOps complet pour prédire le prix des maisons à partir du dataset **Ames Housing**.
 
-**Objectifs du Projet:**
-- Développer un outil de screening non-invasif pour les maladies respiratoires
-- Améliorer le diagnostic précoce de l'asthme
-- Rendre accessible le dépistage via une interface web (Hugging Face Spaces)
+**Objectif**
+Construire une solution couvrant le cycle de vie machine learning : ingestion, preprocessing, entraînement, tracking, déploiement, monitoring et retraining automatique.
 
-**Résultats & Performances:**
-- Accuracy: **89%** sur dataset de test
-- Precision: 87% | Recall: 88%
-- Support: 4 classes de maladies respiratoires
-- Modèle production: Hugging Face Spaces (accessible en ligne)
-- Temps d'inférence: <1 seconde par enregistrement
+**Fonctionnalités principales**
 
-**Architecture Modèle:**
-- Extraction MFCC: 40 coefficients
-- Spectrogramme: Transformation temps-fréquence
-- Architecture: LSTM bidirectionnel + Dense layers
-- Regularization: Dropout + Batch Normalization
-- Optimisation: Adam optimizer avec early stopping
+- Ingestion de données réelles depuis CSV.
+- Préprocessing des variables numériques et catégorielles avec Scikit-learn.
+- Entraînement et sauvegarde du modèle.
+- Validation croisée et comparaison de modèles.
+- Optimisation des hyperparamètres avec GridSearchCV.
+- Tracking local des expériences avec MLflow.
+- API de prédiction avec FastAPI.
+- Monitoring de performance et détection de data drift.
+- Dashboard Streamlit.
+- Tests unitaires.
+- Conteneurisation Docker.
 
-**Stack Technique:** Python | LSTM | TensorFlow/Keras | Librosa | MFCC | SHAP | Hugging Face  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Detection-des-maladies-respiratoires-deep-learning)
+**Workflow**
 
----
+1. Validation croisée.
+2. Comparaison de modèles.
+3. Optimisation avec GridSearchCV.
+4. Entraînement et sauvegarde du modèle.
+5. Logging des métriques avec MLflow.
+6. Évaluation avec MAE, RMSE et R².
+7. Monitoring et détection de drift.
+8. Visualisation dans un dashboard.
 
-### 5️⃣ **High-Performance Books Exploration API**
-
-API REST robuste et performante développée avec FastAPI pour l'exploration de datasets volumineux de livres et métadonnées associées. L'API dispose de filtrage avancé, pagination, recherche full-text et documentation auto-générée via Swagger/OpenAPI.
-
-**Objectifs du Projet:**
-- Fournir une API performante pour l'accès aux données de livres
-- Implémenter une documentation API complète et interactive
-- Assurer la scalabilité et la sécurité
-
-**Résultats & Performances:**
-- Latency: **<100ms** pour 95% des requêtes
-- Throughput: 1000+ requêtes/seconde
-- Dataset: +50K livres avec métadonnées
-- Uptime: 99.9%
-- Response time p99: <200ms
-
-**Fonctionnalités Avancées:**
-- Authentification JWT & API Keys
-- Filtrage multi-critères (titre, auteur, année, genre)
-- Recherche full-text avec elasticsearch
-- Pagination optimisée
-- Caching avec Redis
-- Rate limiting
-- Logging & Monitoring
-- Documentation Swagger interactive
-
-**Architecture:**
-- FastAPI framework
-- PostgreSQL pour les données
-- Redis pour le caching
-- Docker pour le déploiement
-- CI/CD pipeline
-
-**Stack Technique:** FastAPI | Python | PostgreSQL | Docker | Redis | JWT | Swagger/OpenAPI  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Books_Project_API)
+**Stack** : Scikit-learn, Pandas, NumPy, FastAPI, Uvicorn, MLflow, Streamlit, Pytest, Docker.
 
 ---
 
-### 6️⃣ **Comprehensive Credit Risk Scoring System**
+### 4. Détection De Maladies Respiratoires À Partir Des Sons Respiratoires
 
-Système complet d'évaluation du risque de crédit bancaire utilisant le machine learning pour la notation (scoring) des clients. Le système combine feature engineering avancée, multiple modèles prédictifs et provide une interface de dashboard pour le monitoring et la prise de décision.
+Système de deep learning pour classifier automatiquement des conditions respiratoires à partir d'enregistrements audio.
 
-**Objectifs du Projet:**
-- Développer un modèle de crédit scoring précis et interprétable
-- Minimiser les risques de défaut de paiement
-- Automatiser la décision de crédit
+**Objectif**
+Développer un modèle capable de détecter et classifier différentes pathologies respiratoires à partir de sons respiratoires, avec un accent sur l'asthme.
 
-**Résultats & Performances:**
-- Accuracy: 88%
-- AUC-ROC: 0.94
-- Separation Index: 65
-- Rejection Rate: Optimisée pour minimiser les rejets non-nécessaires
-- Default Detection Rate: 91%
+**Classes détectées**
 
-**Dashboard Features:**
-- Score distribution par segment client
-- Risk heatmaps
-- Portfolio analysis
-- Real-time monitoring
-- Comparative analysis (YoY, MoM)
-- Export reports (PDF, Excel)
+- Bronchite.
+- Pneumonie.
+- Asthme.
+- Respiration saine.
+- BPCO.
 
-**Modèles Utilisés:**
-- XGBoost (modèle principal)
-- Random Forest (validation croisée)
-- Logistic Regression (baseline)
-- Gradient Boosting Machines
+**Fonctionnalités principales**
 
-**Stack Technique:** Python | Scikit-learn | XGBoost | Pandas | Streamlit | Plotly  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Systeme-d-Analyse-de-Risque-de-Credit)
+- Analyse exploratoire des données audio.
+- Visualisation des formes d'onde, spectrogrammes et MFCC.
+- Extraction avancée de caractéristiques audio.
+- Augmentation de données pour équilibrer les classes.
+- Classification multi-classes.
+- Évaluation avec matrices de confusion, courbes ROC et rapports de classification.
+- Analyse SHAP pour interpréter les prédictions.
+- Application web Gradio déployée sur Hugging Face Spaces.
 
----
+**Architecture du modèle**
 
-### 7️⃣ **AI Model Monitoring & Deployment Infrastructure**
+- Convolutions 1D pour l'extraction de caractéristiques fréquentielles.
+- Couches LSTM pour capturer les relations temporelles.
+- Couches denses pour la classification finale.
 
-Plateforme complète de déploiement, monitoring et orchestration de modèles IA en environnement Dockerisé. Le projet implémente une stack complète DevOps avec Prometheus pour la collecte de métriques et Grafana pour la visualisation temps réel.
+**Stack** : TensorFlow/Keras, Librosa, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, SHAP, Gradio, Hugging Face Spaces.
 
-**Objectifs du Projet:**
-- Déployer des modèles ML en production de manière fiable
-- Monitorer les performances et l'utilisation des ressources
-- Mettre en place des alertes automatiques
-- Assurer la scalabilité et la haute disponibilité
-
-**Monitoring Capabilities:**
-- Métriques en temps réel (latency, throughput, CPU, memory)
-- Model performance tracking (accuracy, F1-score drift)
-- Data drift detection
-- Resource utilization monitoring
-- Alerts & notifications
-
-**Architecture:**
-- Docker containers pour l'isolation des modèles
-- Prometheus pour la collecte de métriques
-- Grafana pour les dashboards
-- InfluxDB pour le time-series storage
-- Alert Manager pour les notifications
-- Kubernetes ready
-
-**Dashboards Grafana:**
-- Model Performance Dashboard
-- Infrastructure Health
-- Data Quality Metrics
-- Business KPIs
-- System Resources
-
-**Stack Technique:** Docker | Prometheus | Grafana | Python | InfluxDB | Kubernetes-ready  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/SURVEILLANCE-MODELE-IA-SUR-DOCKER)
+**Démo** : [Hugging Face Spaces](https://huggingface.co/spaces/daouda-ba/detection_des_maladies_pulmonaire_par_sons)
 
 ---
 
-### 8️⃣ **Multilingual Speech Recognition & Synthesis System**
+### 5. Surveillance De Modèle D'IA Sur Docker
 
-Application sophistiquée de reconnaissance vocale et synthèse vocale multilingue utilisant les derniers modèles pré-entraînés (Whisper d'OpenAI, Wav2Vec de Meta). L'application supporte 10+ langues et dialectes avec une interface web interactive via Gradio.
+Système de monitoring pour un modèle XGBoost déployé en conteneur Docker avec Prometheus et Grafana.
 
-**Objectifs du Projet:**
-- Fournir une reconnaissance vocale précise dans plusieurs langues
-- Implémenter la synthèse vocale pour l'accessibilité
-- Créer une interface utilisateur accessible
+**Objectif**
+Déployer un modèle IA en production avec une surveillance des performances du modèle et des ressources système en temps réel.
 
-**Résultats & Performances:**
-- Langues supportées: 10+
-- Accuracy WER: <5% (en français et anglais)
-- Temps d'inférence: <5 secondes pour 60s audio
-- Latency: <500ms
-- Support dialectes régionaux
+**Architecture multi-services**
 
-**Fonctionnalités:**
-- Transcription temps-réel
-- Traduction automatique intégrée
-- Synthèse vocale (Text-to-Speech)
-- Ajustement de la vitesse et du ton
-- Export des transcriptions (TXT, SRT, JSON)
-- Correction manuelle via interface
+1. Application Streamlit pour les prédictions.
+2. Exportateur de métriques avec Flask.
+3. Prometheus pour la collecte et le stockage des métriques.
+4. Grafana pour la visualisation.
+5. Node Exporter pour les métriques système au niveau hôte.
 
-**Modèles:**
-- Whisper (speech-to-text) - OpenAI
-- Wav2Vec (alternative STT) - Meta
-- gTTS/Pyttsx3 (TTS)
-- Multilingual support
+**Fonctionnalités principales**
 
-**Stack Technique:** Python | Whisper | Wav2Vec | Gradio | gTTS | Librosa  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Reconnaissance-vocal)
+- Déploiement conteneurisé avec Docker Compose.
+- Interface Streamlit pour exécuter des prédictions.
+- Collecte automatique des métriques via un exportateur Flask.
+- Visualisation temps réel sur Grafana.
+- Monitoring des performances et des ressources.
 
----
+**Métriques surveillées**
 
-### 9️⃣ **IT Intervention Management System**
+- Utilisation CPU et mémoire.
+- Nombre de prédictions.
+- Temps de réponse.
+- Répartition des résultats : approuvé ou refusé.
+- Performance du modèle XGBoost.
 
-Plateforme web enterprise complète pour la gestion centralisée des tickets informatiques, suivi des interventions techniques et support utilisateur. L'application permet le tracking en temps réel, l'assignation des tâches et le reporting des performances.
-
-**Objectifs du Projet:**
-- Centraliser la gestion des tickets IT
-- Optimiser le workflow de support technique
-- Améliorer les KPIs de support (MTTR, SLA compliance)
-- Fournir une expérience utilisateur optimale
-
-**Résultats & Performances:**
-- Système production: +100 utilisateurs actifs
-- Utilisation: +5000 tickets/année
-- MTTR (Mean Time To Resolution): -40%
-- SLA Compliance: 95%+
-- Uptime: 99.8%
-
-**Fonctionnalités:**
-- Création de tickets (web, email, API)
-- Dashboard personnel & administrateur
-- Assignation intelligente des tickets
-- Historique complet des interventions
-- KB (Knowledge Base) intégrée
-- Sondage de satisfaction client
-- Rapports & Analytics
-- Notifications en temps réel
-- Multi-departement support
-
-**Architecture:**
-- Backend: Django REST Framework
-- Frontend: Vue.js / HTML5 / CSS3
-- Database: PostgreSQL
-- Cache: Redis
-- Search: Elasticsearch
-- File Storage: AWS S3
-
-**Stack Technique:** Django | Python | PostgreSQL | HTML/CSS/JavaScript | Bootstrap  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/Application-pour-la-Gestion-des-Interventions-Informatiques)
+**Stack** : XGBoost, Docker, Docker Compose, Streamlit, Prometheus, Grafana, Flask, Python.
 
 ---
 
-### 🔟 **PPE (Personal Protective Equipment) Detection System**
+### 6. Système IoT De Supervision Environnementale
 
-Système de computer vision avancé pour la détection en temps réel des équipements de protection individuelle (casques, gilets de sécurité, masques, gants). Le système utilise YOLOv8 pour une détection extrêmement rapide et précise.
+Système IoT complet pour mesurer, transmettre et visualiser la température et l'humidité en temps réel avec ESP8266, DHT11 et dashboard Django.
 
-**Objectifs du Projet:**
-- Monitorer la conformité aux normes de sécurité
-- Prévenir les accidents sur les sites de construction
-- Automatiser l'audit de sécurité
+**Objectif**
+Superviser des données environnementales en temps réel avec alertes email, indicateurs visuels et historique des mesures.
 
-**Résultats & Performances:**
-- Accuracy: **93%+**
-- Classes détectées: 8+ types d'équipements
-- Temps réel: 30 FPS sur GPU
-- Détection multi-objet par image
-- Confidence scoring
+**Architecture**
 
-**Classes Détectées:**
-- Casques de sécurité (couleurs variées)
-- Gilets de sécurité / haute visibilité
-- Masques de protection (N95, chirurgicaux)
-- Gants de sécurité
-- Chaussures de sécurité
-- Lunettes de sécurité
-- Cache-oreilles
-- Harnais de sécurité
+```text
+[DHT11] -> [ESP8266] -> [Wi-Fi] -> [Django API] -> [SQLite DB] -> [Dashboard Web]
+                                           |
+                                      [Email Alerts]
+```
 
-**Capacités Avancées:**
-- Détection multi-classe simultanée
-- Tracking d'objets entre frames
-- Alertes lorsqu'équipement manquant
-- Heatmaps de zones à risque
-- Export de rapports de conformité
+**Couches du système**
 
-**Stack Technique:** Python | YOLOv8 | OpenCV | PyTorch  
-🔗 [Voir le projet](https://github.com/Daouda-Ba/PPE-detection)
+1. Capteurs : DHT11 pour température et humidité.
+2. Communication : ESP8266 avec Wi-Fi intégré.
+3. Application : API Django pour recevoir et traiter les données.
+4. Présentation : dashboard web interactif.
+5. Notifications : alertes email.
 
----
+**Fonctionnalités principales**
 
-## Compétences Clés
+- Mesure en temps réel toutes les 15 secondes.
+- Dashboard responsive et interactif.
+- Graphiques dynamiques avec Chart.js.
+- Alertes email via Brevo API.
+- Indicateurs visuels avec LEDs sur ESP8266.
+- Historique complet des mesures.
+- API REST pour récupérer les données.
 
-### **Data Science & ML**
-- Feature Engineering & Selection
-- Model Training & Optimization
-- Hyperparameter Tuning
-- Ensemble Methods (Random Forest, XGBoost, etc.)
-- Model Evaluation & Cross-Validation
-- Statistical Analysis
+**Composants matériels**
 
-### **Deep Learning**
-- CNNs, RNNs, LSTMs
-- Transfer Learning
-- Custom Model Architecture
-- Computer Vision (YOLO, OpenCV)
-- Audio Processing & Librosa
+| Composant | Rôle |
+| --- | --- |
+| ESP8266 NodeMCU | Microcontrôleur Wi-Fi |
+| DHT11 | Capteur température et humidité |
+| LEDs verte et rouge | Indicateurs d'état |
+| Résistances 220Ω | Protection des LEDs |
+| Breadboard et fils | Câblage du circuit |
 
-### **Software Engineering**
-- API Design & Development
-- Clean Code Principles
-- Version Control (Git/GitHub)
-- CI/CD Pipelines
-- Docker Containerization
-- Testing & Debugging
+**API**
 
-### **Données & Big Data**
-- Data Cleaning & Preprocessing
-- SQL Queries Optimization
-- Hadoop/HDFS
-- Data Visualization
-- ETL Pipeline Design
+- `POST /api/recevoir/` : réception des données capteurs.
+- `GET /api/data/` : récupération des données historiques.
+
+**Stack** : ESP8266, DHT11, Arduino IDE, Python, Django, SQLite, HTML/CSS/JavaScript, Chart.js, Brevo API.
 
 ---
 
-## Formation & Certifications
+### 7. Books_Project_Streamlit
 
-- **Master's Degree** - Machine Learning & Data Science
-- **Bachelor's Degree** - MIAGE (Informatique)
+Application Streamlit interactive pour analyser un catalogue de livres, explorer des données Goodreads et interroger un assistant RAG connecté à Hugging Face.
 
----
+**Objectif**
+Développer une plateforme complète de gestion et d'analyse de livres combinant visualisation de données, exploration interactive et assistant IA générative.
 
-## 🗣️ Langues
+**Pages et fonctionnalités**
 
-| Langue | Niveau |
-|--------|---------|
-| 🇲🇷 Pulaar | Natif |
-| 🇫🇷 Français | B2 (Intermédiaire-Avancé) |
-| 🇬🇧 Anglais | B1 (Intermédiaire) |
-| 🇸🇦 Arabe | B2 (Intermédiaire-Avancé) |
+- Accueil avec présentation du projet MauriBooks et vue d'ensemble des phases API, data analysis et RAG.
+- Dashboard analytique Plotly avec métriques globales du catalogue.
+- Analyse des auteurs, des livres populaires, des notes, des évaluations, des années de publication et des langues.
+- Explorateur de bibliothèque avec recherche rapide et filtres avancés.
+- Affichage des couvertures et liens directs vers Goodreads.
+- Assistant RAG basé sur le catalogue.
 
----
+**Assistant RAG**
 
-## Philosophie & Approche
+- Embeddings avec Sentence Transformers.
+- Index vectoriel FAISS.
+- Recherche rapide dans le catalogue.
+- Génération de réponses via Hugging Face Inference API.
+- Réponses contextualisées à partir des données disponibles.
 
-> *"Je crois que les données sont le pétrole du 21ème siècle. Mon objectif est de transformer des données brutes en insights actionnables et solutions intelligentes qui créent une véritable valeur pour l'entreprise et la société."*
-
-### Principes de Travail:
-- **Impact-Driven** - Toujours chercher le ROI et l'impact business
-- **Data-Driven** - Décisions basées sur l'analyse rigoureuse
-- **Innovation** - Exploration constante des nouvelles technologies
-- **Collaboration** - Communication claire et travail en équipe
-- **Continuous Learning** - Amélioration permanente et adaptation
+**Stack** : Streamlit, Plotly, Sentence Transformers, FAISS, Hugging Face Inference API, Parquet, CSV, Python logging.
 
 ---
 
-## Me Contacter
+### 8. Books Project API
 
-Je suis toujours intéressé par les opportunités de collaboration, les projets innovants et les discussions sur l'IA/ML.
+API RESTful construite avec FastAPI pour explorer et gérer une base de données de livres et de données de lecture inspirée de Goodbooks-10k.
+
+**Objectif**
+Fournir une API robuste pour gérer des livres, métadonnées, évaluations, tags, listes de lecture et statistiques.
+
+**Fonctionnalités principales**
+
+- Recherche de livres par titre, auteur ou ID.
+- Filtrage par année, langue et notation.
+- Pagination pour les grandes collections.
+- Accès aux métadonnées complètes des livres.
+- Accès aux notes utilisateurs par livre.
+- Statistiques de notation : moyenne et distribution.
+- Historique d'évaluations par utilisateur.
+- Gestion et filtrage par tags.
+- Exploration de tendances littéraires.
+- Récupération de listes "à lire" par utilisateur.
+- Exports en JSON, CSV et DataFrame Pandas.
+- Documentation automatique avec Swagger UI et ReDoc.
+
+**Performance & sécurité**
+
+- Pagination optimisée avec LIMIT/OFFSET.
+- Cache Redis configurable.
+- Compression GZIP.
+- CORS configuré.
+- Logging structuré.
+- Gestion centralisée des erreurs.
+- Tests unitaires avec Pytest.
+
+**Stack** : FastAPI, Python 3.10+, SQLite, PostgreSQL, SQLAlchemy, Pydantic, Render, Docker, Gunicorn, Pytest.
+
+**Production** : [books-project-api.onrender.com](https://books-project-api.onrender.com/)
+
+**Documentation** : `/docs` et `/redoc`.
+
+---
+
+## Synthèse Des Projets
+
+| Projet | Domaine | Interface / Déploiement | Technologies clés |
+| --- | --- | --- | --- |
+| Mauritanian Licence Plate Detection | Computer vision, OCR | Streamlit | YOLOv8, PaddleOCR |
+| Détection de fraude carte de crédit | Machine learning | Streamlit | Scikit-learn, SMOTE |
+| Projet MLOps Ames Housing | MLOps, régression | FastAPI, Streamlit, Docker | MLflow, Pytest |
+| Maladies respiratoires par sons | Deep learning audio | Gradio, Hugging Face Spaces | TensorFlow/Keras, Librosa |
+| Surveillance modèle IA sur Docker | Monitoring IA | Docker Compose, Grafana | XGBoost, Prometheus |
+| Supervision environnementale IoT | IoT, web dashboard | Django | ESP8266, DHT11, Chart.js |
+| Books_Project_Streamlit | Data analysis, RAG | Streamlit | Plotly, FAISS, Hugging Face |
+| Books Project API | API data | Render | FastAPI, SQLAlchemy |
+
+---
+
+## Contact
+
+Je suis ouvert aux collaborations, projets data/IA, stages, opportunités professionnelles et échanges techniques.
 
 | Canal | Lien |
-|-------|------|
-|  LinkedIn | [https://linkedin.com/in/daouda-ba-b9b21b2b4](https://linkedin.com/in/daouda-ba-b9b21b2b4) |
-|  GitHub | [github.com/Daouda-Ba](https://github.com/Daouda-Ba) |
-|  Email | [daoudaba4500@gmail.com](mailto:daoudaba4500@gmail.com) |
+| --- | --- |
+| LinkedIn | [linkedin.com/in/daouda-ba-b9b21b2b4](https://linkedin.com/in/daouda-ba-b9b21b2b4) |
+| GitHub | [github.com/Daouda-Ba](https://github.com/Daouda-Ba) |
+| Email | [daoudaba4500@gmail.com](mailto:daoudaba4500@gmail.com) |
 
 ---
 
 <div align="center">
 
-**Merci de visiter mon portfolio ! N'hésitez pas à explorer mes projets et me contacter pour toute collaboration.**
+**Merci de visiter mon portfolio.**
 
-*Last Updated: Septembre 2026*
+*Dernière mise à jour : septembre 2026*
 
 </div>
